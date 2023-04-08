@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi, I’m @eddie-an
+- 👀 I’m interested in gaining industry experience in the field of software engineering.
+- 🌱 I’m currently in my undergrad program for software engineering with a minor in mechatronics.
+- 📫 You can reach me on my linkedin: https://www.linkedin.com/in/edward-an/
 
 <!--
 **eddie-an/eddie-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
