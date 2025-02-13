@@ -5,7 +5,7 @@
 - 🎓 **Undergrad** in Software Engineering with a **Mechatronics Minor**  
 - 🏙️ **Currently interning** as a Systems Analyst at the City of Calgary  
 - ⚡ **Passionate about** full-stack web development, system architecture, and machine learning
-- 🏋️‍♂️ Outside of coding, I love **Strength Training** and spending time outdoors
+- 🏋️‍♂️ Outside of coding, I love weight lifting and spending time outdoors
 
 ### 🛠️ Languages and Frameworks
 <p align="left">
