@@ -57,8 +57,9 @@
 
 ### 📫 Connect With Me  
 <p>
-  <a href="https://www.linkedin.com/in/edward-an/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=" height="40"/>
-  </a> 
-  📧 <strong>Email:</strong> <a href="mailto:edward.an03@gmail.com">edward.an03@gmail.com</a>
+  <a href="https://linkedin.com/in/edward-an" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Edward-An" height="30" width="40" />
+  </a>
+  <span style="margin-left: 10px;">📧 <strong>Email:</strong> <a href="mailto:edward.an03@gmail.com">edward.an03@gmail.com</a></span>
 </p>
+
